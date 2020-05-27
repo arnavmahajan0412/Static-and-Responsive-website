@@ -1,0 +1,137 @@
+#main{
+    background-color: darkgray;
+    
+}
+#minimenu a{
+    color: white;
+    padding-left: 20px;
+}
+.htop{
+    background-image: url(../images/10.jpeg);
+    height: 800px;
+    background-position: center;
+    background-size: cover;
+    
+    text-align: center;
+    color: white;
+}
+.text-margin{
+    padding-top: 220px;
+    font-size: 20px;
+}
+.text-margin p{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.text-margin h1{
+    font-size: 60px;
+}
+#asection{
+    text-align: center;
+  
+    color: white;
+    padding-top: 50px;
+   
+    background-size: cover;
+}
+.button a:link{
+    background-color:rgb(207, 69, 69);
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    height: 50px;
+    width: 200px;
+    padding-top: 15px;
+}
+.button a:hover{
+    background-color: red;
+}
+.bsection{
+   
+    text-align: center;
+    padding-top: 50px;
+}
+#video{
+    background-color:whitesmoke;
+
+}
+img{
+    width: 100%;
+}
+#music{
+    background-color: gray;
+}
+.btn{
+    padding: 1rem;
+    color: white;
+    display: inline-block;
+}
+.bsection p{
+    font-size: 20px;
+}
+.info{
+    background-image: url(../images/14.jpeg);
+    background-position: center top 100%;
+    padding-top: 150px;
+    height: 600px;   
+}
+.csection{
+    color: white;
+    text-align: center;
+    font-size: 16px;
+
+}
+.csection  h2{
+    margin-bottom: 40px;
+    
+}
+.bsection img{
+    margin-bottom: 30px;
+}
+#row h2{
+    padding-top: 50px;
+    margin-bottom: 20px;
+}
+#row img{
+    padding-top: 30px;
+}
+#row a{
+    text-decoration: none;
+    color: black;
+}
+#row{
+    margin-bottom: 80px;
+}
+#dsection{
+    background-color: rgb(51, 47, 47);
+    color: white;
+}
+#decoration a{
+    color: white;
+    text-decoration: none;
+}
+#decoration hr{
+    background-color: white;   
+}
+#decoration{
+    padding-top: 50px;
+
+}
+.footer{
+    text-align: center;
+    font-size: 13px;
+    background-color: rgb(56, 51, 51);
+    padding-top: 10px;
+    color: white;
+    padding-bottom: 10px;
+}
+.spacing{
+    margin-bottom: 20px;
+}
+@media  (min-width: 481px) and (max-width:1024px)
+{
+    .spacing h4 {
+      font-size: 15px;
+    }
+}
